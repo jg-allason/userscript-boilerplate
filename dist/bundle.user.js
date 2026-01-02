@@ -203,7 +203,7 @@
       resetBtn
     ]);
     const widget = createElement("div", { className: "userscript-example-widget" }, [
-      createElement("div", { className: "userscript-example-widget__title", textContent: "LIVE RELOAD 22:48" }),
+      createElement("div", { className: "userscript-example-widget__title", textContent: "AUTO UPDATE TEST v1.0.1" }),
       displayEl,
       buttonsEl
     ]);
