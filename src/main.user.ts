@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Userscript
 // @namespace    https://github.com/yourusername
-// @version      1.0.1
+// @version      1.0.2
 // @description  Description here
 // @author       Your Name
 // @match        https://example.com/*

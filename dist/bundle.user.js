@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Userscript
 // @namespace    https://github.com/yourusername
-// @version      1.0.1
+// @version      1.0.2
 // @author       Your Name
 // @description  Description here
 // @downloadURL  https://raw.githubusercontent.com/jg-allason/userscript-boilerplate/main/dist/bundle.user.js
@@ -203,7 +203,7 @@
       resetBtn
     ]);
     const widget = createElement("div", { className: "userscript-example-widget" }, [
-      createElement("div", { className: "userscript-example-widget__title", textContent: "AUTO UPDATE TEST v1.0.1" }),
+      createElement("div", { className: "userscript-example-widget__title", textContent: "AUTO UPDATE TEST v1.0.2 (WAITING FOR TOMORROW)" }),
       displayEl,
       buttonsEl
     ]);

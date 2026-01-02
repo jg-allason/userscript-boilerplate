@@ -117,7 +117,7 @@ export function initExample(context: UserscriptContext): void {
   ]);
 
   const widget = createElement('div', { className: 'userscript-example-widget' }, [
-    createElement("div", { className: "userscript-example-widget__title", textContent: "AUTO UPDATE TEST v1.0.1" }),
+    createElement("div", { className: "userscript-example-widget__title", textContent: "AUTO UPDATE TEST v1.0.2 (WAITING FOR TOMORROW)" }),
     displayEl,
     buttonsEl,
   ]);
