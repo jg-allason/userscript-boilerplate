@@ -1,0 +1,8 @@
+# Defaults
+node_modules
+.DS_Store
+.env
+
+# Userscript specific
+dist/*
+!dist/bundle.user.js
