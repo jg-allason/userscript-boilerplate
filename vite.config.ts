@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import monkey from 'vite-plugin-monkey';
+import packageJson from './package.json';
 
 export default defineConfig({
     plugins: [
@@ -8,7 +9,7 @@ export default defineConfig({
             userscript: {
                 name: 'My Userscript',
                 namespace: 'https://github.com/yourusername',
-                version: '1.0.0',
+                version: packageJson.version,
                 description: 'Description here',
                 author: 'Your Name',
                 match: ['https://example.com/*'],

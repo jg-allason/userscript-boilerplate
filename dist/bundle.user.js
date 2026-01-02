@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Userscript
 // @namespace    https://github.com/yourusername
-// @version      1.0.0
+// @version      1.0.1
 // @author       Your Name
 // @description  Description here
 // @downloadURL  https://raw.githubusercontent.com/jg-allason/userscript-boilerplate/main/dist/bundle.user.js
